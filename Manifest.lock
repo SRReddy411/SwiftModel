@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.3)
+  - KRActivityIndicatorView (2.1.2)
+  - KRProgressHUD (3.2.2):
+    - KRActivityIndicatorView (= 2.1.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.6)
+  - KRProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - KRActivityIndicatorView
+    - KRProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  KRActivityIndicatorView: 27e7a7e3da7fbc8e5405fbc4088b51cc2095a410
+  KRProgressHUD: 8872da74b1c462e15c82a8fff250a2d34ee82ea2
+
+PODFILE CHECKSUM: 6fc8b72b1eac3e477ed8b99d9ea02cc462c5fde7
+
+COCOAPODS: 1.5.0
